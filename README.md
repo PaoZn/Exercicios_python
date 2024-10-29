@@ -46,7 +46,7 @@ Descrição: Essa exceção ocorre ao tentar acessar uma variável ou função q
 
 Exercício: Tente acessar uma variável que não foi definida e trate o erro para exibir uma mensagem informando que a variável não existe.
 
-10. IndentationError
+# 10. IndentationError
 Descrição: Essa exceção ocorre quando a indentação do código está incorreta.
 
 Exercício: Simule uma indentação incorreta no código para provocar uma exceção. Trate o erro para exibir uma mensagem informando sobre o problema de indentação.
